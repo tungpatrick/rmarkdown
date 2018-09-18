@@ -4,4 +4,4 @@ DSCI 521 lab_3 for PATRICK (SHENG-CHUN) TUNG (ptung)
 
 | File | Description |
 |---|---|
-| [Link to Q2.0.1](https://github.com/tungpatrick/rmarkdown/blob/master/index.html) | My html file to Q2.0.1 |
+| [Q2.0.1 Website](https://tungpatrick.github.io/rmarkdown/) | My website to Q2.0.1 |
